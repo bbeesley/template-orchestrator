@@ -96,7 +96,7 @@
     "documentation": "^13.0.1",
     "eslint": "^7.3.1",
     "eslint-config-airbnb-typescript": "^8.0.2",
-    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-import": "^2.22.0",
     "husky": "^4.2.5",
     "jest": "^26.1.0",
     "npm-check-updates": "^6.0.1",
