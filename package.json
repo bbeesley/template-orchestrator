@@ -92,7 +92,7 @@
     "@typescript-eslint/parser": "^3.10.1",
     "babel-jest": "^26.3.0",
     "conventional-changelog-angular": "^5.0.11",
-    "cz-conventional-changelog": "^3.2.1",
+    "cz-conventional-changelog": "^3.3.0",
     "documentation": "^13.0.2",
     "eslint": "^7.7.0",
     "eslint-config-airbnb-typescript": "^8.0.2",
