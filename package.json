@@ -101,7 +101,7 @@
     "jest": "^26.5.3",
     "npm-check-updates": "^6.0.1",
     "prettier": "^2.1.2",
-    "semantic-release": "^17.1.2",
+    "semantic-release": "^17.2.0",
     "typescript": "^3.9.7"
   },
   "dependencies": {
