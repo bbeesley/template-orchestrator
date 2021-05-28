@@ -79,7 +79,7 @@
     "@babel/preset-env": "^7.14.4",
     "@babel/preset-stage-0": "^7.8.3",
     "@babel/preset-typescript": "^7.13.0",
-    "@commitlint/cli": "^8.3.5",
+    "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^8.3.4",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
