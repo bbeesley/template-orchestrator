@@ -98,7 +98,7 @@
     "eslint-config-airbnb-typescript": "^8.0.2",
     "eslint-plugin-import": "^2.23.3",
     "husky": "^6.0.0",
-    "jest": "^27.0.1",
+    "jest": "^27.2.0",
     "npm-check-updates": "^11.5.13",
     "prettier": "^2.3.0",
     "semantic-release": "^17.4.3",
